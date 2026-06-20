@@ -17,11 +17,14 @@
   <a href="https://github.com/fnafian04" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/fnafian04" target="_blank">
+  <a href="https://www.linkedin.com/in/haii-akunafiann/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:fadhliarekmalang@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fadhliarekmalang%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:hellonafiann@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hellonafiann%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/nafi.ann" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/fnafian04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -299,6 +302,9 @@ Open To: "Senior Full-Stack / AI Engineering Roles & Collaborations"
   </a>
   <a href="https://www.linkedin.com/in/haii-akunafiann/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/nafi.ann" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/fnafian04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
